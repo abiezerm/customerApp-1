@@ -11,4 +11,4 @@ direction varchar(100) NOT NULL
 SHOW TABLES;
 
 
-DESCRIBE customer;
+describe customer;

@@ -20,10 +20,11 @@ controller.list = (req, res) => {
     });
 };
 
+
 controller.save = (req, res) =>{
 
     console.log(req.body);
-    res.send('works')
+    res.send('Works')
     
     
 
